@@ -1,0 +1,1 @@
+-- SELECT COUNT(DISTINCT amount_tipped) FROM bookings;
